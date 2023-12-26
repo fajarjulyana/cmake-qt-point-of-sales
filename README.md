@@ -1,0 +1,1 @@
+# cmake-qt-point-of-sales
