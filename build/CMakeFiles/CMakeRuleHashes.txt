@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+a0a4e01f80b16bbcbfbc908e9318fcf7 CMakeFiles/PointOfSale_autogen
+a0a4e01f80b16bbcbfbc908e9318fcf7 CMakeFiles/PointOfSale_autogen_timestamp_deps
+282dfb1b32e9e3757461fb5033361e65 PointOfSale_autogen/timestamp

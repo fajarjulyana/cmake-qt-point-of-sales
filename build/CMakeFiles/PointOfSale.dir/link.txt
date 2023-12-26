@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/PointOfSale.dir/PointOfSale_autogen/mocs_compilation.cpp.o CMakeFiles/PointOfSale.dir/main.cpp.o CMakeFiles/PointOfSale.dir/poswindow.cpp.o -o PointOfSale  /usr/lib/libQt5Widgets.so.5.15.11 /usr/lib/libQt5Gui.so.5.15.11 /usr/lib/libQt5Core.so.5.15.11 
